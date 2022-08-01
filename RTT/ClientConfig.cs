@@ -13,6 +13,6 @@ namespace RailsIO.RTT
 
         public string Username => "rttapi_zackaryh8";
 
-        public string Password => "003af1b0fbc67e8ead7cd60bbb33320414b3a11f";
+        public string Password => "";
     }
 }
