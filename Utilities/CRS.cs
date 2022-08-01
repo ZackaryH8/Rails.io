@@ -12,7 +12,7 @@ namespace RailsIO.Utilities
 {
     public static class CRSUtility
     {
-        public static IEnumerable<StationRecord> Records { get; set; }
+        public static IEnumerable<StationRecord>? Records { get; set; }
 
         public static void LoadCrsRecords()
         {
